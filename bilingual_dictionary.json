@@ -1,0 +1,273 @@
+{
+  "guava_healthy": {
+    "plant_name_en": "Guava",
+    "plant_name_as": "মধুৰিআম",
+    "disease_name_en": "Healthy Guava Leaf",
+    "disease_name_as": "সুস্থ মধুৰিআমৰ পাত",
+    "scientific_name": "Psidium guajava",
+    "pathogen_as": "ৰোগমুক্ত / কোনো বীজাণু নাই",
+    "severity": "none",
+    "symptoms_en": [
+      "Vibrant green leaf blade with intact margins",
+      "Clear, unblemished venation",
+      "No fungal spots or wilting observed"
+    ],
+    "symptoms_as": [
+      "উজ্জ্বল আৰু সুস্থ সেউজীয়া পাত",
+      "সিৰা-উপসিৰাবোৰ পৰিষ্কাৰ আৰু সুস্থ",
+      "কোনো ভেঁকুৰৰ দাগ বা লেৰেলি যোৱা নাই"
+    ],
+    "organic_remedies_en": [
+      "Apply balanced vermicompost around root drip line",
+      "Maintain adequate soil aeration and prevent waterlogging"
+    ],
+    "organic_remedies_as": [
+      "গছৰ গুৰিত সুষম কেঁচুসাৰ প্ৰয়োগ কৰক",
+      "মাটিত পানী জমা হ'বলৈ নিদিব আৰু সঠিক নিষ্কাশন ৰাখক"
+    ],
+    "chemical_remedies_en": [
+      "No chemical sprays needed for healthy foliage"
+    ],
+    "chemical_remedies_as": [
+      "সুস্থ গছত কোনো ৰাসায়নিক স্প্ৰে'ৰ প্ৰয়োজন নাই"
+    ]
+  },
+  "guava_wilt": {
+    "plant_name_en": "Guava",
+    "plant_name_as": "মধুৰিআম",
+    "disease_name_en": "Guava Wilt Disease",
+    "disease_name_as": "মধুৰিআমৰ লেৰেলি যোৱা বেমাৰ (উইল্ট)",
+    "scientific_name": "Fusarium oxysporum f. sp. psidii",
+    "pathogen_as": "মাটিজনিত ভেঁকুৰ (Fusarium)",
+    "severity": "severe",
+    "symptoms_en": [
+      "Leaves turn pale yellow, droop, and desiccate",
+      "Foliage dries up while still adhering to branches",
+      "Vascular browning inside stem tissues"
+    ],
+    "symptoms_as": [
+      "পাতবোৰ হালধীয়া পৰি লেৰেলি শুকাই যাবলৈ ধৰে",
+      "পাতবোৰ শুকাই ডালতে লাগি থাকে আৰু ডাল মৰি আহে",
+      "ডালৰ ভিতৰৰ নলীবোৰ বাদামী বা ক'লা হৈ পৰে"
+    ],
+    "organic_remedies_en": [
+      "Soil drenching with Trichoderma viride (10g/L) mixed in organic compost",
+      "Apply neem cake (2-3 kg per mature tree) around root zone"
+    ],
+    "organic_remedies_as": [
+      "ট্ৰাইক'ডাৰ্মা ভিৰিডি (১০ গ্ৰাম/লিটাৰ) সাৰৰ সৈতে গুৰিত প্ৰয়োগ কৰক",
+      "গছৰ গুৰিত নিমৰ খলিহৈ ২-৩ কেজি প্ৰয়োগ কৰক"
+    ],
+    "chemical_remedies_en": [
+      "Drench root zone with Carbendazim (1g/L) or Propiconazole (1ml/L)"
+    ],
+    "chemical_remedies_as": [
+      "কার্বেনডাজিম (১ গ্ৰাম/লিটাৰ) বা প্ৰপিকোনাজোল পানীত মিহলাই গুৰিত দিয়ক"
+    ]
+  },
+  "guava_anthracnose": {
+    "plant_name_en": "Guava",
+    "plant_name_as": "মধুৰিআম",
+    "disease_name_en": "Guava Anthracnose (Dieback)",
+    "disease_name_as": "মধুৰিআমৰ এনথ্ৰাকনোজ / ক'লা দাগ বেমাৰ",
+    "scientific_name": "Colletotrichum gloeosporioides",
+    "pathogen_as": "এনথ্ৰাকনোজ ভেঁকুৰ (Colletotrichum)",
+    "severity": "moderate",
+    "symptoms_en": [
+      "Dark brown to black sunken circular lesions on leaf surfaces",
+      "Papery necrotic leaf centers that crack and form shot holes",
+      "Dieback of young tender twigs from tips downward"
+    ],
+    "symptoms_as": [
+      "পাতত ক'লা বা ডাঠ বাদামী ৰঙৰ ঘূৰণীয়া সোমাই যোৱা দাগ",
+      "দাগবোৰ শুকাই পাতৰ মাজত ফুটা হৈ পৰে",
+      "কুমলীয়া ডালবোৰ আগৰ পৰা তললৈ শুকাই আহে"
+    ],
+    "organic_remedies_en": [
+      "Spray 5% fermented cow urine or Panchagavya every 14 days",
+      "Prune affected twigs 2 inches below infected areas"
+    ],
+    "organic_remedies_as": [
+      "পঞ্চগব্য বা পুৰণি গো-মূত্ৰ ১৫ দিনৰ অন্তৰে অন্তৰে স্প্ৰে' কৰক",
+      "আক্ৰান্ত ডালবোৰ ২ ইঞ্চি তলৰ পৰা কাটি পেলাওক"
+    ],
+    "chemical_remedies_en": [
+      "Spray Copper Oxychloride 50 WP (2.5g/L) or Mancozeb 75 WP (2g/L)"
+    ],
+    "chemical_remedies_as": [
+      "কপাৰ অক্সিক্ল'ৰাইড (২.৫ গ্ৰাম/লিটাৰ) বা মেনকোজ়েব (২ গ্ৰাম/লিটাৰ) স্প্ৰে' কৰক"
+    ]
+  },
+  "guava_canker": {
+    "plant_name_en": "Guava",
+    "plant_name_as": "মধুৰিআম",
+    "disease_name_en": "Guava Canker / Leaf Spot",
+    "disease_name_as": "মধুৰিআমৰ কেনকাৰ / খহু বেমাৰ",
+    "scientific_name": "Pestalotiopsis psidii",
+    "pathogen_as": "পেষ্টাল'টিয়পচিছ ভেঁকুৰ",
+    "severity": "moderate",
+    "symptoms_en": [
+      "Raised, corky, rusty-brown angular pustules on leaves",
+      "Distinct chlorotic yellow halos encircling spots",
+      "Premature defoliation during damp weather"
+    ],
+    "symptoms_as": [
+      "পাতত টান, খহটা আৰু ৰঙচুৱা-বাদামী খহু সদৃশ দাগ",
+      "দাগবোৰৰ চাৰিওফালে স্পষ্ট হালধীয়া আঙঠি থাকে",
+      "বৰষুণৰ দিনত পাতবোৰ অকালতে সৰি পৰে"
+    ],
+    "organic_remedies_en": [
+      "Spray copper hydroxide suspension or strained wood ash tea",
+      "Avoid overhead sprinkler irrigation to keep leaves dry"
+    ],
+    "organic_remedies_as": [
+      "জৈৱিক কপাৰ আৰু কাঠৰ ছাইৰ মিশ্ৰণ স্প্ৰে' কৰিব পাৰে",
+      "পাত যাতে সেমেকি নাথাকে তাৰ বাবে কেৱল গুৰিত পানী দিয়ক"
+    ],
+    "chemical_remedies_en": [
+      "Spray 1% Bordeaux Mixture or Copper Oxychloride (3g/L)"
+    ],
+    "chemical_remedies_as": [
+      "১% বৰ্ডো মিশ্ৰণ বা কপাৰ অক্সিক্ল'ৰাইড (৩ গ্ৰাম/লিটাৰ) স্প্ৰে' কৰক"
+    ]
+  },
+  "tomato_healthy": {
+    "plant_name_en": "Tomato",
+    "plant_name_as": "বিলাহী",
+    "disease_name_en": "Healthy Tomato Leaf",
+    "disease_name_as": "সুস্থ বিলাহীৰ পাত",
+    "scientific_name": "Solanum lycopersicum",
+    "pathogen_as": "ৰোগমুক্ত / কোনো ৰোগৰ বীজাণু নাই",
+    "severity": "none",
+    "symptoms_en": [
+      "Deep green, symmetrical compound leaflets",
+      "No spotting, chlorosis, or leaf curl observed",
+      "Vigorous, erect foliage growth"
+    ],
+    "symptoms_as": [
+      "গাঢ় সেউজীয়া আৰু সুন্দৰ পাত",
+      "কোনো হালধীয়া দাগ বা কোঁচ খোৱা নাই",
+      "সতেজ আৰু পোন হৈ থকা ডাল-পাত"
+    ],
+    "organic_remedies_en": [
+      "Maintain compost mulching around root zone",
+      "Ensure 6-8 hours of direct sunshine"
+    ],
+    "organic_remedies_as": [
+      "গুৰিত শুকান গোবৰ বা কেঁচুসাৰ প্ৰয়োগ কৰক",
+      "দৈনিক ৬-৮ ঘণ্টা পোহৰ পৰা স্থানত ৰাখক"
+    ],
+    "chemical_remedies_en": [
+      "No synthetic chemicals required"
+    ],
+    "chemical_remedies_as": [
+      "কোনো ৰাসায়নিক ঔষধৰ প্ৰয়োজন নাই"
+    ]
+  },
+  "tomato_early_blight": {
+    "plant_name_en": "Tomato",
+    "plant_name_as": "বিলাহী",
+    "disease_name_en": "Tomato Early Blight",
+    "disease_name_as": "বিলাহীৰ আগতীয়া পাত পচা দাগ বেমাৰ",
+    "scientific_name": "Alternaria solani",
+    "pathogen_as": "অল্টাৰনেৰিয়া ভেঁকুৰ (Alternaria)",
+    "severity": "moderate",
+    "symptoms_en": [
+      "Concentric circular brown rings resembling a bullseye",
+      "Yellow chlorotic halos surrounding lesions",
+      "Starts on lowest, older leaves and moves upward"
+    ],
+    "symptoms_as": [
+      "পাতত এটাৰ ভিতৰত আন এটা আঙঠিৰ দৰে ঘূৰণীয়া ক'লা-বাদামী দাগ",
+      "দাগবোৰৰ চাৰিওফালে হালধীয়া বৃত্ত থাকে",
+      "তলৰ পুৰণি পাতৰ পৰা আৰম্ভ হৈ ওপৰলৈ বিয়পে"
+    ],
+    "organic_remedies_en": [
+      "Neem oil spray (5ml/L with mild soap emulsifier) every 7 days",
+      "Prune lowest foliage touching damp soil"
+    ],
+    "organic_remedies_as": [
+      "নিম তেল (৫ মিলি/লিটাৰ) চাবোন পানীৰে মিহলাই স্প্ৰে' কৰক",
+      "মাটি চুই থকা তলৰ বেমাৰী পাতবোৰ কাটি পেলাওক"
+    ],
+    "chemical_remedies_en": [
+      "Foliar spray of Mancozeb 75 WP (2.5g/L) or Chlorothalonil (2g/L)",
+      "For severe cases: Azoxystrobin + Difenoconazole at 1ml/L"
+    ],
+    "chemical_remedies_as": [
+      "মেনকোজ়েব (২.৫ গ্ৰাম/লিটাৰ) বা ক্ল'ৰ'থাল'নিল (২ গ্ৰাম/লিটাৰ) স্প্ৰে' কৰক",
+      "এমিস্টাৰ টপ (Amistar Top) ১ মিলি প্ৰতি লিটাৰ পানীত স্প্ৰে' কৰক"
+    ]
+  },
+  "tomato_late_blight": {
+    "plant_name_en": "Tomato",
+    "plant_name_as": "বিলাহী",
+    "disease_name_en": "Tomato Late Blight",
+    "disease_name_as": "বিলাহীৰ পলমকৈ হোৱা পচন বেমাৰ (লেট ব্লাইট)",
+    "scientific_name": "Phytophthora infestans",
+    "pathogen_as": "লেট ব্লাইট বীজাণু (Phytophthora)",
+    "severity": "severe",
+    "symptoms_en": [
+      "Water-soaked irregular dark gray/black patches",
+      "White downy fungal growth on leaf undersides in high humidity",
+      "Rapid wilting and foliage collapse looking like frost burn"
+    ],
+    "symptoms_as": [
+      "পানীত তিতাৰ দৰে অনিয়মীয়া ক'লা-ধোঁৱাবৰণীয়া পচন দাগ",
+      "সেমেকা বতৰত পাতৰ তলফালে বগা কপাহী ভেঁকুৰ দেখা যায়",
+      "পাতবোৰ ক'লা পৰি জুইত পোৰাৰ দৰে লেৰেলি মৰি যায়"
+    ],
+    "organic_remedies_en": [
+      "Copper soap fungicide spray approved for organic farming",
+      "Immediately uproot and bag severely infected plants; do not compost"
+    ],
+    "organic_remedies_as": [
+      "অনুমোদিত জৈৱিক কপাৰ ঔষধ স্প্ৰে' কৰক",
+      "বেমাৰী গছবোৰ পলম নকৰি উভালি পলিথিনত ভৰাই দূৰত পুতি পেলাওক"
+    ],
+    "chemical_remedies_en": [
+      "Foliar spray of Ridomil Gold (Metalaxyl + Mancozeb) at 2.5g/L",
+      "Curzate (Cymoxanil + Mancozeb) at 2g/L"
+    ],
+    "chemical_remedies_as": [
+      "ৰিড'মিল গ'ল্ড (২.৫ গ্ৰাম/লিটাৰ) বা কাৰজেট (২ গ্ৰাম/লিটাৰ) স্প্ৰে' কৰক"
+    ]
+  },
+  "tomato_leaf_curl": {
+    "plant_name_en": "Tomato",
+    "plant_name_as": "বিলাহী",
+    "disease_name_en": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+    "disease_name_as": "বিলাহীৰ পাত কোঁচ খোৱা ভাইৰাছ বেমাৰ",
+    "scientific_name": "Begomovirus (Whitefly-transmitted)",
+    "pathogen_as": "বগা মাখিয়ে বিয়পোৱা ভাইৰাছ (Begomovirus)",
+    "severity": "severe",
+    "symptoms_en": [
+      "Upward cupping and curling of leaf margins",
+      "Thickened leathery leaves with intense interveinal chlorosis",
+      "Severe stunting of plant height and complete flower drop"
+    ],
+    "symptoms_as": [
+      "পাতবোৰ ওপৰফালে বাটিৰ দৰে কেঁকোৰা-কেঁকুৰি হৈ কোঁচ খায়",
+      "পাত ডাঠ খহটা হয় আৰু সিৰাবোৰৰ মাজত হালধীয়া পৰে",
+      "গছজোপাৰ বৃদ্ধি বন্ধ হয় আৰু ফুলবোৰ সৰি ফল নধৰে"
+    ],
+    "organic_remedies_en": [
+      "Hang bright yellow sticky traps (15 traps per bigha) for whitefly vectors",
+      "Spray Neem Seed Kernel Extract (NSKE 5%)",
+      "Plant marigold borders as barrier crops"
+    ],
+    "organic_remedies_as": [
+      "বগা মাখি ধৰিবলৈ পথাৰত হালধীয়া আঠা ফান্দ ওলমাই দিয়ক",
+      "নিম গুটিৰ ৰস (NSKE ৫%) স্প্ৰে' কৰক",
+      "বাৰীৰ চাৰিওফালে নাৰ্জী ফুলৰ ব্যৱস্থা কৰক"
+    ],
+    "chemical_remedies_en": [
+      "Vector control: Imidacloprid 17.8 SL (0.5ml/L) or Thiamethoxam (0.3g/L)",
+      "Alternate with Acetamiprid 20 SP (0.5g/L)"
+    ],
+    "chemical_remedies_as": [
+      "বগা মাখি নাশ কৰিবলৈ ইমিডাক্ল'প্ৰিড (০.৫ মিলি/লিটাৰ) বা থায়ামেথ'ক্সাম স্প্ৰে' কৰক",
+      "এচিটামিপ্রিড ০.৫ গ্ৰাম/লিটাৰ স্প্ৰে' কৰক"
+    ]
+  }
+}

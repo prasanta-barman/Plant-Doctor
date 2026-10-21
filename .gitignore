@@ -1,0 +1,24 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Heavy training datasets and runs
+datasets/
+raw_staging/
+runs/
+*.jpg
+*.jpeg
+*.png
+*.webp
+!test_photos/.gitkeep
+!output/.gitkeep
+
+# Large PyTorch / TFLite binary models (>100MB should use Git LFS or release tags)
+models/*.pt
+models/*.onnx
+
+# Local secrets & API keys
+roboflow_config.json
+.env
